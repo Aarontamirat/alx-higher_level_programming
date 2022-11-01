@@ -1,1 +1,1 @@
-A raedme file for higher level language part of the training, predominantly for Python programming langauge.
+A readme file for higher level language part of the training, predominantly for Python programming langauge.
