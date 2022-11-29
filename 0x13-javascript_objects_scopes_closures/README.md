@@ -1,0 +1,4 @@
+# JAVA SCRIPT OBJECTS SCOPES AND CLOSURES
+
+## Author
+Aaron Tamirat
